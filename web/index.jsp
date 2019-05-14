@@ -2,6 +2,7 @@
 <%@page import="java.sql.*" %>
 <%@page import="bags.Page" %>
 <%@page import="bags.Log" %>
+
 <!DOCTYPE html>
 <html>
     <head>
